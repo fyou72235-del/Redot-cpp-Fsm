@@ -6,6 +6,8 @@ Technologies used
 
 C++
 
+Cmake
+
 Redot
 
 Redot C++ GDExtension
